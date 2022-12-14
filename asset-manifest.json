@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/knight_possible_moves/static/css/main.274afe8d.css",
+    "main.css": "/knight_possible_moves/static/css/main.32b1ee49.css",
     "main.js": "/knight_possible_moves/static/js/main.02b7faae.js",
     "static/media/knight.PNG": "/knight_possible_moves/static/media/knight.2b58b4d32c6d6c6afe20.PNG",
     "index.html": "/knight_possible_moves/index.html",
-    "main.274afe8d.css.map": "/knight_possible_moves/static/css/main.274afe8d.css.map",
+    "main.32b1ee49.css.map": "/knight_possible_moves/static/css/main.32b1ee49.css.map",
     "main.02b7faae.js.map": "/knight_possible_moves/static/js/main.02b7faae.js.map"
   },
   "entrypoints": [
-    "static/css/main.274afe8d.css",
+    "static/css/main.32b1ee49.css",
     "static/js/main.02b7faae.js"
   ]
 }
