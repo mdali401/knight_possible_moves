@@ -47,10 +47,14 @@ body {
   opacity: 10%;
 }
 
-.legend, .legend > p {
-  margin: 10px;
-  text-align: center;
-  display: inline;
+.legend {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.legend > p {
   font-weight: bolder;
   font-size: 1em;
 }
@@ -58,7 +62,5 @@ body {
 .legend div {
   min-width: 20px;
   min-height: 20px;
-  display: inline-block;
-  color: green;
   background-color: green;
 }
